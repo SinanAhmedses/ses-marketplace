@@ -21,10 +21,9 @@ import {
     Menu,
     X,
     Store,
-    ChevronDown,
 } from "lucide-react";
 
-import { motion, AnimatePresence } from "framer-motion";
+import { motion} from "framer-motion";
 import { Link, NavLink } from "react-router-dom";
 
 function Navbar() {
